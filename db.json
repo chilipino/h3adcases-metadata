@@ -1,0 +1,81 @@
+{
+  "tokens": 
+  [
+    {
+      "id": 0,
+      "name": "Mike's H3ADCASE #0",
+      "description": "A unique founder H3ADCASE",
+      "external_url": "https://gateway.pinata.cloud/ipfs/QmNRPn2tgzvD9NwangAYCbLbNG2CPaNTUPQCZqNBHv9vEW/assets/1.png",
+      "image": "https://gateway.pinata.cloud/ipfs/QmNRPn2tgzvD9NwangAYCbLbNG2CPaNTUPQCZqNBHv9vEW/assets/1.png",
+      "attributes": 
+      [
+        {
+          "trait_type": "head",
+          "value": "common-orange"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "nonexistent"
+        },
+        {
+          "trait_type": "background",
+          "value": "uncommon-orange-to-yellow-gradient"
+        },
+        {
+          "trait_type": "forehead",
+          "value": "rare-black-pentagram"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "common-filled-black"
+        },
+        {
+          "trait_type": "nose",
+          "value": "common-filled-black"
+        },
+        {
+          "trait_type": "mouth-decoration",
+          "value": "legendary-blue-flames"
+        }
+      ],
+    },
+    {
+      "id": 1,
+      "name": "Mike's H3ADCASE #1",
+      "description": "A unique founder H3ADCASE",
+      "external_url": "https://gateway.pinata.cloud/ipfs/QmNRPn2tgzvD9NwangAYCbLbNG2CPaNTUPQCZqNBHv9vEW/assets/1.png",
+      "image": "https://gateway.pinata.cloud/ipfs/QmNRPn2tgzvD9NwangAYCbLbNG2CPaNTUPQCZqNBHv9vEW/assets/1.png",
+      "attributes": 
+      [
+        {
+          "trait_type": "head",
+          "value": "common-orange"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "nonexistent"
+        },
+        {
+          "trait_type": "background",
+          "value": "uncommon-orange-to-yellow-gradient"
+        },
+        {
+          "trait_type": "forehead",
+          "value": "rare-black-pentagram"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "common-filled-black"
+        },
+        {
+          "trait_type": "nose",
+          "value": "common-filled-black"
+        },
+        {
+          "trait_type": "mouth-decoration",
+          "value": "legendary-blue-flames"
+        }
+      ],
+    }
+  ]
+}
